@@ -27,16 +27,10 @@ Sou um desenvolvedor backend especializado em Python, SQL e IA Generativa. Traba
 
 ---
 
-## Projetos em Destaque
-
-**Automação Python** - Soluções de automação inteligentes e eficientes
-[Ver Repositório](https://github.com/matheuseuardo04-dotcom/automacao-python)
-
-**IA e Previsões** - Implementação de modelos de IA para análise e previsão de dados
-[Ver Repositório](https://github.com/matheuseuardo04-dotcom/ia-e-previsoes)
+## MEU PORTIFÓLIO
 
 **Portfólio** - Showcase de projetos e experiências
-[Ver Repositório](https://github.com/matheuseuardo04-dotcom/PORTIFOLIO)
+[VISITAR](matheuseduardo04-dotcom.github.io)
 
 ---
 
