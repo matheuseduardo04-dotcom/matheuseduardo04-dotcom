@@ -55,5 +55,5 @@ Sou um desenvolvedor backend focado em Python, SQL e IA Generativa. Trabalho cri
 </div>
 
 <div align="center">
-  <strong>Desenvolvedor | Backend | Python | SQL | IA</strong>
+  <strong>Desenvolvedor | Backend | Python | SQL | Cloud | Git</strong>
 </div>
