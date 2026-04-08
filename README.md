@@ -11,6 +11,7 @@
 
 
 
+
 ## Sobre Mim
 
 Sou um desenvolvedor backend focado em Python, SQL e Cloud. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
