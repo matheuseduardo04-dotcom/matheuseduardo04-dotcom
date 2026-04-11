@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/">
-  <img src="img/foto-github.jpg" width="160" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 20px #00D4FF55;" alt="Matheus Eduardo"/>
+  <img src="foto-github.jpg" width="160" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 20px #00D4FF55;" alt="Matheus Eduardo"/>
 </a>
 
 <h1>Matheus Eduardo</h1>
