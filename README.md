@@ -39,16 +39,12 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuseduardo04-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuseduardo04-dotcom&layout=compact&langs_count=6&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
-
-</div>
-
-<div align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuseduardo04-dotcom&layout=compact&langs_count=3&hide=html,css,javascript,jupyter%20notebook,shell&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
 
 </div>
 
