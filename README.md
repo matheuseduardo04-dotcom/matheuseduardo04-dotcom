@@ -53,8 +53,6 @@ Sou um desenvolvedor backend focado em **Python**, **MySQL** e **Cloud AWS**. Tr
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheuseduardo04-dotcom&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
-
 </div>
 
 ---
