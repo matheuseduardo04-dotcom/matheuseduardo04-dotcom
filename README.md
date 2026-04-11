@@ -1,360 +1,93 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Matheus Eduardo | Backend</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+<div align="center">
 
-    :root {
-      --bg: #070c1a;
-      --panel: #0e152b;
-      --stroke: #16203b;
-      --accent: #00d4ff;
-      --accent-2: #7b5cff;
-      --text: #e8efff;
-      --muted: #9db1d6;
-      --shadow: 0 20px 70px rgba(0, 212, 255, 0.15);
-    }
+<a href="https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/">
+  <img src="img/foto-github.jpg" width="160" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 20px #00D4FF55;" alt="Matheus Eduardo"/>
+</a>
 
-    * { box-sizing: border-box; }
+<h1>Matheus Eduardo</h1>
 
-    body {
-      margin: 0;
-      min-height: 100vh;
-      background: radial-gradient(circle at 20% 20%, rgba(0, 212, 255, 0.08), transparent 35%),
-                  radial-gradient(circle at 80% 0%, rgba(123, 92, 255, 0.10), transparent 30%),
-                  var(--bg);
-      color: var(--text);
-      font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
-      display: grid;
-      place-items: center;
-      padding: 32px;
-    }
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dev+Back-End+%F0%9F%9A%80;Python+%7C+SQL+%7C+Cloud+%E2%98%81%EF%B8%8F;Solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis;Sempre+aprendendo+algo+novo+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-    main {
-      width: min(1100px, 100%);
-    }
+</div>
 
-    .card {
-      position: relative;
-      background: linear-gradient(135deg, rgba(14, 21, 43, 0.92), rgba(10, 16, 32, 0.92));
-      border: 1px solid var(--stroke);
-      border-radius: 28px;
-      padding: 36px clamp(24px, 3vw, 48px);
-      box-shadow: var(--shadow);
-      overflow: hidden;
-    }
+---
 
-    .glow {
-      position: absolute;
-      inset: -30% -10% auto auto;
-      width: 320px;
-      height: 320px;
-      background: radial-gradient(circle, rgba(0, 212, 255, 0.22), transparent 60%);
-      filter: blur(50px);
-      pointer-events: none;
-      z-index: 0;
-    }
+## 🙋‍♂️ Sobre Mim
 
-    header {
-      display: grid;
-      grid-template-columns: auto 1fr;
-      gap: 24px;
-      align-items: center;
-      position: relative;
-      z-index: 1;
-    }
+Sou um desenvolvedor backend focado em **Python**, **SQL** e **Cloud**. Trabalho criando soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e sempre em busca de aprender novas tecnologias.
 
-    .avatar {
-      position: relative;
-      width: 160px;
-      height: 160px;
-    }
+- 🔭 Trabalhando com automações, APIs e análise de dados
+- 🌱 Estudando Cloud AWS e boas práticas de engenharia de software
+- 💡 Apaixonado por resolver problemas com código
 
-    .avatar::before {
-      content: "";
-      position: absolute;
-      inset: -8px;
-      border-radius: 50%;
-      background: conic-gradient(from 90deg, var(--accent), var(--accent-2), var(--accent));
-      filter: blur(1px);
-      animation: spin 10s linear infinite;
-      opacity: 0.85;
-    }
+---
 
-    .avatar img {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 4px solid var(--panel);
-      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.35);
-      z-index: 1;
-    }
+## 🛠️ Tecnologias
 
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
+<div align="center">
 
-    .title-block h1 {
-      margin: 0;
-      font-size: clamp(26px, 4vw, 36px);
-      letter-spacing: -0.02em;
-    }
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,aws,linux,vscode&theme=dark)](https://skillicons.dev)
 
-    .title-block .role {
-      color: var(--muted);
-      margin: 6px 0 16px;
-      font-weight: 500;
-    }
+</div>
 
-    .chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
+<div align="center">
 
-    .chip {
-      background: rgba(0, 212, 255, 0.08);
-      color: var(--text);
-      border: 1px solid rgba(0, 212, 255, 0.2);
-      padding: 8px 12px;
-      border-radius: 12px;
-      font-size: 14px;
-      letter-spacing: 0.01em;
-    }
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-    .cta {
-      margin-top: 18px;
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
+</div>
 
-    .btn {
-      padding: 12px 18px;
-      border-radius: 12px;
-      border: 1px solid var(--stroke);
-      color: var(--text);
-      text-decoration: none;
-      font-weight: 600;
-      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.2s ease;
-      display: inline-flex;
-      gap: 8px;
-      align-items: center;
-    }
+---
 
-    .btn.primary {
-      background: linear-gradient(135deg, var(--accent), #15b1ff);
-      color: #04101d;
-      border: none;
-      box-shadow: 0 10px 30px rgba(0, 212, 255, 0.35);
-    }
+## 📊 GitHub Stats
 
-    .btn.ghost {
-      background: rgba(255, 255, 255, 0.04);
-    }
+<div align="center">
 
-    .btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 14px 30px rgba(0, 0, 0, 0.25);
-      border-color: var(--accent);
-    }
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuseduardo04-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseduardo04-dotcom&layout=compact&langs_count=6&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
 
-    section.content {
-      margin-top: 32px;
-      position: relative;
-      z-index: 1;
-      display: grid;
-      gap: 20px;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    }
+</div>
 
-    .panel {
-      background: rgba(255, 255, 255, 0.02);
-      border: 1px solid var(--stroke);
-      border-radius: 18px;
-      padding: 18px 20px;
-      backdrop-filter: blur(6px);
-    }
+<div align="center">
 
-    .panel h2 {
-      margin: 0 0 12px;
-      font-size: 18px;
-      letter-spacing: -0.01em;
-    }
+[![GitHub Streak](https://streak-stats.demolab.com?user=matheuseduardo04-dotcom&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
-    .panel p {
-      margin: 0;
-      color: var(--muted);
-      line-height: 1.6;
-    }
+</div>
 
-    .stack-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-      gap: 12px;
-    }
+---
 
-    .tech {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 10px 12px;
-      border: 1px solid var(--stroke);
-      border-radius: 12px;
-      background: rgba(255, 255, 255, 0.02);
-      transition: border-color 0.2s ease, transform 0.15s ease;
-    }
+## 🗂️ Meu Portfólio
 
-    .tech img {
-      width: 26px;
-      height: 26px;
-      object-fit: contain;
-    }
+<div align="center">
 
-    .tech span {
-      font-weight: 600;
-      letter-spacing: 0.01em;
-      color: var(--text);
-    }
+[![Portfólio](https://img.shields.io/badge/🚀%20Visite%20meu%20Portfólio-00D4FF?style=for-the-badge&logoColor=white)](https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/)
 
-    .tech:hover {
-      border-color: var(--accent);
-      transform: translateY(-2px);
-    }
+</div>
 
-    .contacts {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
+---
 
-    .contact-pill {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 12px;
-      border-radius: 12px;
-      border: 1px solid var(--stroke);
-      color: var(--text);
-      text-decoration: none;
-      background: rgba(255, 255, 255, 0.02);
-      transition: border-color 0.2s ease, transform 0.15s ease;
-    }
+## 📬 Contato
 
-    .contact-pill:hover {
-      border-color: var(--accent);
-      transform: translateY(-2px);
-    }
+<div align="center">
 
-    .contact-pill img {
-      width: 18px;
-      height: 18px;
-      transition: filter 0.2s ease, opacity 0.2s ease;
-    }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-eduardo-6a71463b0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me8164755@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543996353642)
 
-    .contact-pill img.mono {
-      filter: brightness(0) invert(1);
-      opacity: 0.9;
-    }
+</div>
 
-    footer {
-      margin-top: 18px;
-      color: var(--muted);
-      font-size: 14px;
-      text-align: center;
-    }
+---
 
-    @media (max-width: 700px) {
-      header {
-        grid-template-columns: 1fr;
-        justify-items: center;
-        text-align: center;
-      }
-      .avatar { margin: 0 auto; }
-      .cta { justify-content: center; }
-    }
-  </style>
-</head>
-<body>
-  <main>
-    <article class="card">
-      <div class="glow"></div>
+<div align="center">
 
-      <header>
-        <div class="avatar">
-          <img src="img/foto-github.jpg" alt="Foto de perfil de Matheus Eduardo">
-        </div>
-        <div class="title-block">
-          <h1>Matheus Eduardo</h1>
-          <div class="role">Desenvolvedor Backend • Python • SQL • Cloud</div>
-          <div class="chips">
-            <span class="chip">APIs e automações</span>
-            <span class="chip">Boas práticas & testes</span>
-            <span class="chip">Escalabilidade na nuvem</span>
-          </div>
-          <div class="cta">
-            <a class="btn primary" href="https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/" target="_blank" rel="noopener">🚀 Ver portfólio</a>
-            <a class="btn ghost" href="mailto:me8164755@gmail.com">✉️ Fale comigo</a>
-          </div>
-        </div>
-      </header>
+![Profile Views](https://komarev.com/ghpvc/?username=matheuseduardo04-dotcom&color=00D4FF&style=flat-square&label=Visitas+ao+Perfil)
 
-      <section class="content">
-        <div class="panel">
-          <h2>Sobre mim</h2>
-          <p>Sou um desenvolvedor Back-End focado em Python, SQL e Cloud. Crio soluções robustas e escaláveis que resolvem problemas reais. Apaixonado por código limpo, boas práticas e por aprender novas tecnologias todos os dias.</p>
-        </div>
+**Desenvolvedor | Backend | Python | SQL | Cloud | Git**
 
-        <div class="panel">
-          <h2>Tecnologias</h2>
-          <div class="stack-grid">
-            <div class="tech">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-              <span>Python</span>
-            </div>
-            <div class="tech">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL">
-              <span>MySQL</span>
-            </div>
-            <div class="tech">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-              <span>Git</span>
-            </div>
-            <div class="tech">
-              <img src="cloud.jpg" alt="AWS">
-              <span>Cloud AWS</span>
-            </div>
-          </div>
-        </div>
+</div>
 
-        <div class="panel">
-          <h2>Contato</h2>
-          <div class="contacts">
-            <a class="contact-pill" href="https://www.linkedin.com/in/matheus-eduardo-6a71463b0" target="_blank" rel="noopener">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-              <span>LinkedIn</span>
-            </a>
-            <a class="contact-pill" href="mailto:me8164755@gmail.com">
-              <img class="mono" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email">
-              <span>Email</span>
-            </a>
-            <a class="contact-pill" href="https://wa.me/5543996353642" target="_blank" rel="noopener">
-              <img class="mono" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp">
-              <span>WhatsApp</span>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <footer>
-        Desenvolvedor | Backend | Python | SQL | Cloud | Git
-      </footer>
-    </article>
-  </main>
-</body>
-</html>
