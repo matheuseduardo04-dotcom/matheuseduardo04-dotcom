@@ -11,6 +11,19 @@
 </div>
 
 ---
+## 🎓 Cursos & Formação
+
+|                                                                                                                                |Curso                        |Instituição   |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithm/thealgorithm-original.svg" width="20">                |**Algoritmo** `40h`          |Curso em Vídeo|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20">                            |**Python**                   |freeCodeCamp  |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20">                            |**Python POO**               |Curso em Vídeo|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20">                              |**MySQL**                    |Curso em Vídeo|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20">        |**SQL do Básico ao Avançado**|Hotmart       |
+|🌐                                                                                                                               |**Redes**                    |Curso em Vídeo|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20">|**Cloud**                    |AWS           |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20">                                  |**Git / GitHub** `20h`       |Curso em Vídeo|
+|🎓                                                                                                                               |**GRAD-EAD em ADS**          |UNICIVE       |
 
 ## Sobre Mim
 
