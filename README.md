@@ -1,4 +1,3 @@
-
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -69,55 +68,6 @@ filosofia: "código limpo > código clever"
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |   | ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Next.js × Claude AI
-
-Landing page com chat integrado à **API da Anthropic** (modelo Haiku), deploy na Vercel.
-
-`Next.js 15` · `React` · `Anthropic API` · `Vercel`
-
-[🔗 Demo ao vivo](https://nextjs-claude-chat-5hcr.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💪 FORGE — Gym Landing
-
-Landing page de academia com efeitos **CSS 3D** avançados e identidade visual marcante.
-
-`React` · `Tailwind CSS` · `CSS 3D` · `Lucide`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 BOTTIKTOK
-
-Automação de interações no TikTok com **detecção de imagens** em tempo real via PyAutoGUI.
-
-`Python` · `PyAutoGUI` · `pyscreeze`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Importação Paraguai
-
-Landing page comercial com catálogo e contato direto via WhatsApp.
-
-`React` · `Tailwind` · `Base64`
-
-</td>
-</tr>
-</table>
 
 ---
 
