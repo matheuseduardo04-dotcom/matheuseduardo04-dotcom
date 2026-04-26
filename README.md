@@ -1,11 +1,11 @@
-Conteúdo colado
-6.76 KB •180 linhas
-A formatação pode estar inconsistente com a fonte
+
 <!-- ===================== HEADER BANNER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=240&section=header&text=Matheus%20Eduardo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20MySQL&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=240&section=header&text=Matheus%20Eduardo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20MySQL&descAlignY=58&descSize=18" width="100%" />
+
+
 
 </div>
 
