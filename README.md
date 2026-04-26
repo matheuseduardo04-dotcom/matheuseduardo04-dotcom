@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://matheuseduardo04-dotcom.github.io/PORTIFOLIO/">
-    <img src="foto-github.png" width="180" alt="Matheus Eduardo"/>
+    
   </a>
 </div>
 
