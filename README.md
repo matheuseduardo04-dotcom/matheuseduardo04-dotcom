@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Matheus%20Eduardo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20MySQL&descAlignY=56&descSize=18" width="100%" />
+<img src="assets/github-thug.png" width="170" alt="GitHub Octocat" />
+
+# Matheus Eduardo
+
+<p><b>Backend Developer</b> &nbsp;•&nbsp; Python &nbsp;•&nbsp; AWS &nbsp;•&nbsp; MySQL</p>
 
 </div>
 
