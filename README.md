@@ -147,6 +147,10 @@ class MatheusEduardo:
         <img src="https://img.shields.io/badge/espaço-O(1)-c084fc?style=flat-square&labelColor=0d1117" />
       </p>
       <p>
+        <img src="https://img.shields.io/badge/LinkedIn-1.480_reações-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/54k_impressões-FF6B6B?style=flat-square&labelColor=0d1117" />
+      </p>
+      <p>
         <a href="https://htmlpreview.github.io/?https://github.com/matheuseduardo04-dotcom/insertion-sort/blob/main/insetion.html"><img src="https://img.shields.io/badge/▶_Demo_ao_vivo-00D4FF?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
         <a href="https://github.com/matheuseduardo04-dotcom/insertion-sort"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
       </p>
