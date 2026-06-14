@@ -136,6 +136,10 @@ class MatheusEduardo:
       <a href="https://github.com/matheuseduardo04-dotcom/insertion-sort">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuseduardo04-dotcom&repo=insertion-sort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" />
       </a>
+      <br/><br/>
+      <a href="https://github.com/matheuseduardo04-dotcom/insertion-sort">
+        <img src="assets/binary-code.png" width="100%" alt="Binary code" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <h4>Insertion Sort — Visualização Interativa</h4>
