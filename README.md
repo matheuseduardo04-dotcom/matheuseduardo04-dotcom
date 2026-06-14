@@ -124,6 +124,38 @@ class MatheusEduardo:
 
 <br/>
 
+<!-- ===================== PROJECTS ===================== -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" align="left" />
+
+### &nbsp;Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/matheuseduardo04-dotcom/insertion-sort">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuseduardo04-dotcom&repo=insertion-sort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Insertion Sort — Visualização Interativa</h4>
+      <p>Animação do algoritmo de ordenação por inserção em HTML/CSS/JS puro: divisor entre parte ordenada e não-ordenada, status em tempo real, controle de velocidade, beeps de áudio e o código Python acompanhando a execução linha por linha.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-5eead4?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/tempo-O(n²)-60a5fa?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/espaço-O(1)-c084fc?style=flat-square&labelColor=0d1117" />
+      </p>
+      <p>
+        <a href="https://htmlpreview.github.io/?https://github.com/matheuseduardo04-dotcom/insertion-sort/blob/main/insetion.html"><img src="https://img.shields.io/badge/▶_Demo_ao_vivo-00D4FF?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+        <a href="https://github.com/matheuseduardo04-dotcom/insertion-sort"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" align="left" />
