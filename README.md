@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/github-thug.png" width="170" alt="GitHub Octocat" />
+<img src="assets/banner-white.png" width="100%" alt="GitHub Octocat" />
 
 # Matheus Eduardo
 
