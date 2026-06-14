@@ -139,10 +139,6 @@ class MatheusEduardo:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuseduardo04-dotcom&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheuseduardo04-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
 </div>
 
 <br/>
